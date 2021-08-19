@@ -1,0 +1,1 @@
+const harvestLocations = ["Costa Rica", "Massachusetts", "Florida", "Dominican Republic","North Carolina", "Puerto Rico","Mexico","Ohio","Massachusetts", "Florida", "Florida", "Sydney", "Asia", "Mexico", "Bahamas", "Australia"]
